@@ -1,0 +1,12 @@
+[submodule "hugo/cloudmason_site/themes/ananke"]
+	path = hugo/cloudmason_site/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "hugo/cloudmason_site/themes/loveit"]
+	path = hugo/cloudmason_site/themes/loveit
+	url = https://github.com/dillonzq/LoveIt.git
+[submodule "hugo/cloudmason_site/themes/toha"]
+	path = hugo/cloudmason_site/themes/toha
+	url = https://github.com/hugo-toha/toha.git
+[submodule "themes/toha"]
+	path = themes/toha
+	url = https://github.com/hugo-toha/toha.git
